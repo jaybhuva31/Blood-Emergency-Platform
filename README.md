@@ -57,3 +57,10 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Request History
 - Live Status Tracking
 
+## 🔔 Notification Module
+
+- Request Notifications
+- Emergency Alerts
+- Camp Notifications
+- Read/Unread Notifications
+- Delete Notifications

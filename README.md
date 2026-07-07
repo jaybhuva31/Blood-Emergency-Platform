@@ -10,3 +10,17 @@ The Blood Emergency Platform helps hospitals, patients, and voluntary blood dono
 
 Users can register as either a **Donor** or **Receiver**, manage their profiles, create emergency blood requests, search nearby compatible donors, receive notifications, participate in blood donation camps, and monitor donation history through an interactive dashboard.
 
+
+# 🚀 Features
+
+## 👤 Authentication
+
+- User Registration
+- Login & Logout
+- JWT Authentication
+- OTP Verification
+- Forgot Password
+- Reset Password
+- Role Based Authentication
+- Secure REST APIs
+

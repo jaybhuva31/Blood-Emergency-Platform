@@ -1,0 +1,24 @@
+# React Frontend exclusions
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Django Backend exclusions
+**/__pycache__/
+*.py[cod]
+*$py.class
+backend/.env
+backend/static/
+backend/media/
+.venv/
+venv/
+ENV/
+env/
+
+# Editor/System directories
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log

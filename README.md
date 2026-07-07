@@ -73,3 +73,11 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Distance Calculation
 - Donor Location Markers
 
+## 🏕 Donation Camp Module
+
+- View Upcoming Camps
+- Register for Camps
+- QR Code Registration
+- QR Check-In
+- Attendance Tracking
+

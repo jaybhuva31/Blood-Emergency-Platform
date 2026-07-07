@@ -81,3 +81,12 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - QR Check-In
 - Attendance Tracking
 
+## 📊 Reports & Analytics
+
+- Blood Group Statistics
+- Monthly Donations
+- Emergency Requests
+- Donation Reports
+- Camp Reports
+- CSV Export
+- Dashboard Charts

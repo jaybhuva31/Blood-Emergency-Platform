@@ -90,3 +90,15 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Camp Reports
 - CSV Export
 - Dashboard Charts
+
+## 👨‍💼 Admin Panel
+
+- Manage Users
+- Manage Donors
+- Manage Receivers
+- Manage Blood Requests
+- Manage Camps
+- View Reports
+- Dashboard Analytics
+- System Monitoring
+

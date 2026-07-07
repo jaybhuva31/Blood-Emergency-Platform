@@ -36,4 +36,14 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Nearby Donor Search
 - Profile Picture Upload
 
+## 🏥 Receiver Module
+
+- Receiver Profile
+- Hospital Information
+- Patient Details
+- Blood Requirement
+- Emergency Level
+- Track Blood Requests
+- Contact Donors
+
 

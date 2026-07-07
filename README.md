@@ -46,4 +46,14 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Track Blood Requests
 - Contact Donors
 
+## 🩸 Blood Request Module
+
+- Create Blood Request
+- Accept Request
+- Reject Request
+- Cancel Request
+- Complete Request
+- Request Timeline
+- Request History
+- Live Status Tracking
 

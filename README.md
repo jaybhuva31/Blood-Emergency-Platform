@@ -24,3 +24,16 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Role Based Authentication
 - Secure REST APIs
 
+
+## ❤️ Donor Module
+
+- Donor Registration
+- Donor Profile Management
+- Blood Group Details
+- Availability Toggle
+- Blood Report Upload
+- Donation History
+- Nearby Donor Search
+- Profile Picture Upload
+
+

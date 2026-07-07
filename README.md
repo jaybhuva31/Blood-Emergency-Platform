@@ -64,3 +64,12 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Camp Notifications
 - Read/Unread Notifications
 - Delete Notifications
+
+## 🗺️ Maps Module
+
+- Current Location
+- Nearby Donors
+- OpenStreetMap Integration
+- Distance Calculation
+- Donor Location Markers
+

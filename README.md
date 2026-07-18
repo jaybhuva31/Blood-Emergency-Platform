@@ -222,3 +222,150 @@ Create Superuser
 ```bash
 python manage.py createsuperuser
 ```
+
+
+Run Server
+
+```bash
+python manage.py runserver
+```
+
+---
+
+# Frontend Setup
+
+Navigate to frontend
+
+```bash
+cd frontend
+```
+
+Install Packages
+
+```bash
+npm install
+```
+
+Run React
+
+```bash
+npm run dev
+```
+
+---
+
+# API Base URL
+
+```
+http://127.0.0.1:8000/api/
+```
+
+---
+
+# Main Modules
+
+- Authentication
+- Donor Management
+- Receiver Management
+- Blood Requests
+- Notifications
+- Maps
+- Donation Camps
+- Reports
+- Dashboard
+- Admin Panel
+
+---
+
+# REST APIs
+
+### Authentication
+
+- Register
+- Login
+- Verify OTP
+- Forgot Password
+- Reset Password
+
+### Donor
+
+- Create Profile
+- Update Profile
+- Availability
+- Donation History
+- Nearby Donors
+
+### Receiver
+
+- Create Profile
+- Update Profile
+- Blood Requests
+
+### Requests
+
+- Create
+- Accept
+- Reject
+- Complete
+- Cancel
+
+### Notification
+
+- Get Notifications
+- Mark Read
+- Delete
+
+### Camp
+
+- Camp List
+- Register
+- QR Check-In
+
+### Reports
+
+- Dashboard Analytics
+- CSV Export
+
+---
+
+# Future Enhancements
+
+- SMS Notifications
+- Email Alerts
+- AI-Based Donor Recommendation
+- Hospital Integration
+- Mobile Application
+- Live Blood Bank Inventory
+- Multi-Language Support
+- Cloud Deployment
+- Digital Donation Certificates
+
+---
+
+
+# Contributors
+
+### 👨‍💻 Jay Bhuva
+
+Computer Engineering Student
+
+Lok Jagruti Institute of Engineering & Technology (LJIET)
+
+Ahmedabad, Gujarat, India
+
+GitHub:
+https://github.com/jaybhuva31
+
+---
+
+# License
+
+This project is developed for educational purposes as a Semester 4 Full Stack & Python (Django REST Framework) academic project.
+
+---
+
+# ⭐ Support
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+Happy Coding! 🚀

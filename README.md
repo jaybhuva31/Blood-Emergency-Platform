@@ -132,3 +132,22 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - GitHub
 - VS Code
 - Postman
+
+# 📂 Project Structure
+
+```
+Blood-Emergency-Platform
+│
+├── backend
+│   ├── accounts
+│   ├── donor
+│   ├── receiver
+│   ├── requests
+│   ├── notification
+│   ├── reports
+│   ├── camp
+│   ├── core
+│   ├── media
+│   ├── manage.py
+│   └── requirements.txt
+│

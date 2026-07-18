@@ -179,3 +179,20 @@ git clone https://github.com/jaybhuva31/Blood-Emergency-Platform.git
 ```bash
 cd Blood-Emergency-Platform
 ```
+
+
+# Backend Setup
+
+Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+Activate
+
+### Windows
+
+```bash
+venv\Scripts\activate
+```

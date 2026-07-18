@@ -102,3 +102,14 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Dashboard Analytics
 - System Monitoring
 
+# 🛠 Tech Stack
+
+## Frontend
+
+- React.js (Vite)
+- React Router
+- Bootstrap 5
+- Axios
+- React Leaflet
+- Chart.js
+- React Icons

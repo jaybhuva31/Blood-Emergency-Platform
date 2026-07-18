@@ -113,3 +113,11 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - React Leaflet
 - Chart.js
 - React Icons
+
+## Backend
+
+- Python
+- Django
+- Django REST Framework
+- JWT Authentication (SimpleJWT)
+

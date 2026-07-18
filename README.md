@@ -196,3 +196,29 @@ Activate
 ```bash
 venv\Scripts\activate
 ```
+
+### Linux / Mac
+
+```bash
+source venv/bin/activate
+```
+
+Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run Migrations
+
+```bash
+python manage.py makemigrations
+
+python manage.py migrate
+```
+
+Create Superuser
+
+```bash
+python manage.py createsuperuser
+```

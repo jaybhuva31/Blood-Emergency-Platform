@@ -166,3 +166,16 @@ Blood-Emergency-Platform
 │
 ├── README.md
 └── .gitignore
+
+
+# ⚙️ Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/jaybhuva31/Blood-Emergency-Platform.git
+```
+
+```bash
+cd Blood-Emergency-Platform
+```

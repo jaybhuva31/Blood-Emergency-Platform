@@ -126,3 +126,9 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - MySQL (Production)
 - SQLite (Development)
 
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman

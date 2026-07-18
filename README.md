@@ -121,3 +121,8 @@ Users can register as either a **Donor** or **Receiver**, manage their profiles,
 - Django REST Framework
 - JWT Authentication (SimpleJWT)
 
+## Database
+
+- MySQL (Production)
+- SQLite (Development)
+

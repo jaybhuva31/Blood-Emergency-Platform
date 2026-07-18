@@ -151,3 +151,18 @@ Blood-Emergency-Platform
 │   ├── manage.py
 │   └── requirements.txt
 │
+├── frontend
+│   ├── src
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── context
+│   │   ├── services
+│   │   ├── assets
+│   │   ├── hooks
+│   │   └── App.jsx
+│   │
+│   ├── package.json
+│   └── vite.config.js
+│
+├── README.md
+└── .gitignore
